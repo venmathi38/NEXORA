@@ -35,3 +35,18 @@ Venmathi R.
 
 ## GitHub Repository
 https://github.com/venmathi38/NEXORA
+
+
+---
+
+## Project Screenshots
+
+### Dashboard
+![NEXORA Dashboard](Screenshot%20dashboards.png)
+
+### Inventory
+![Inventory](screenshots%20inventory.png)
+
+### AI Insights
+![AI Insights](screenshots%20ai-insights.png)
+
