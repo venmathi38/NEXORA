@@ -50,3 +50,8 @@ https://github.com/venmathi38/NEXORA
 ### AI Insights
 ![AI Insights](screenshots%20ai-insights.png)
 
+
+## Project Demo
+
+[Watch NEXORA AI Demo](https://drive.google.com/file/d/1cB4rp6qB4xnk6kV47pSJ9N1QZioJYjLd/view?usp=sharing)
+
